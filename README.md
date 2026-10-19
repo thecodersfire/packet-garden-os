@@ -24,3 +24,9 @@ The `packet-garden.svg` wallpaper is original. Packet Garden OS is an independen
 
 See [FEATURES.md](FEATURES.md) for three local tools included for network administration.
 
+
+The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, LibreOffice**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **DB Browser for SQLite, KeePassXC, LibreOffice**. See [FEATURES.md](FEATURES.md).
